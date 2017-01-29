@@ -1,6 +1,6 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
-gem 'rails', '4.2.3'
+gem 'rails', '5.0.1'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
@@ -13,7 +13,7 @@ gem 'therubyracer', platforms: :ruby
 gem 'capybara', '~> 2.4.4'
 gem 'poltergeist', '~> 1.6.0'
 gem 'phantomjs', '~> 1.9.8.0'
-gem 'json', '~> 2.0', '>= 2.0.3'
+gem 'json', '~> 1.8'
 # Access an IRB console on exception pages or by using <%= console %> in views
 gem 'web-console', '~> 2.0', group: :development
 
